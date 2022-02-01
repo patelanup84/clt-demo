@@ -1,0 +1,1 @@
+This is a project copied from https://towardsdatascience.com/deploying-a-basic-streamlit-app-to-heroku-be25a527fcb3 to learn how to setup a web app using Streamlit, Github and Heroku. 
